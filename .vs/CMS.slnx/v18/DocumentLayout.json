@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dola\\source\\repos\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\implementation\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\implementation\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\interface\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\interface\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\implementation\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\implementation\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\implementation\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\implementation\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\interface\\igenrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\interface\\igenrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\interface\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\interface\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\dtos\\movie\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\dtos\\movie\\createmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\implementation\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\implementation\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\dtos\\customer\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\dtos\\customer\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\dtos\\genre\\creategenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\dtos\\genre\\creategenredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\cms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\cms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\repos\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\repos\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\iunitofworks\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\iunitofworks\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\iunitofworks\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\iunitofworks\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\appcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\appcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|c:\\users\\dola\\source\\repos\\cms\\cms\\migrations\\20261002120701_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E602B07-97E1-7A0A-4EB1-ECD52404957F}|CMS\\CMS.csproj|solutionrelative:cms\\migrations\\20261002120701_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAYwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:00:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwFcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:00:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Implementation\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\CustomerRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Implementation\\CustomerRepo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:16:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IGenreRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Interface\\IGenreRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IGenreRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Interface\\IGenreRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:19:00.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\ICustomerRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Interface\\ICustomerRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\ICustomerRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Interface\\ICustomerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:19:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Implementation\\MovieRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\MovieRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Implementation\\MovieRepo.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:17:51.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Interface\\IBookingRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IBookingRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Interface\\IBookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:18:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IMovieRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Interface\\IMovieRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IMovieRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Interface\\IMovieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:48:21.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Movie.cs",
+              "RelativeToolTip": "CMS\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:47:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Implementation\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\BookingRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Implementation\\BookingRepo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:16:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwGkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:34:23.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Interface\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Interface\\IGenericRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Interface\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:09:13.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\GenreRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Implementation\\GenreRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\GenreRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Implementation\\GenreRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:16:24.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Movie\\CreateMovieDto.cs",
+              "RelativeDocumentMoniker": "CMS\\Dtos\\Movie\\CreateMovieDto.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Movie\\CreateMovieDto.cs",
+              "RelativeToolTip": "CMS\\Dtos\\Movie\\CreateMovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:04:46.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Booking.cs",
+              "RelativeToolTip": "CMS\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:47:40.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Customer.cs",
+              "RelativeToolTip": "CMS\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:47:35.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Customer\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "CMS\\Dtos\\Customer\\CreateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Customer\\CreateCustomerDto.cs",
+              "RelativeToolTip": "CMS\\Dtos\\Customer\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:04:53.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Booking\\CreateBookingDto.cs",
+              "RelativeDocumentMoniker": "CMS\\Dtos\\Booking\\CreateBookingDto.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Booking\\CreateBookingDto.cs",
+              "RelativeToolTip": "CMS\\Dtos\\Booking\\CreateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:05:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateGenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Genre\\CreateGenreDto.cs",
+              "RelativeDocumentMoniker": "CMS\\Dtos\\Genre\\CreateGenreDto.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Dtos\\Genre\\CreateGenreDto.cs",
+              "RelativeToolTip": "CMS\\Dtos\\Genre\\CreateGenreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:56:52.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Models\\Genre.cs",
+              "RelativeToolTip": "CMS\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:47:23.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CMS.csproj",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\CMS.csproj",
+              "RelativeDocumentMoniker": "CMS\\CMS.csproj",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\CMS.csproj",
+              "RelativeToolTip": "CMS\\CMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T11:45:51.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "CMS\\Repos\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Repos\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "CMS\\Repos\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:09:20.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\IUnitOfWorks\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CMS\\IUnitOfWorks\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\IUnitOfWorks\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "CMS\\IUnitOfWorks\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:30:04.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Program.cs",
+              "RelativeDocumentMoniker": "CMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Program.cs",
+              "RelativeToolTip": "CMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:05:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\IUnitOfWorks\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CMS\\IUnitOfWorks\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\IUnitOfWorks\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "CMS\\IUnitOfWorks\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:30:10.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\AppContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CMS\\AppContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\AppContext\\AppDbContext.cs",
+              "RelativeToolTip": "CMS\\AppContext\\AppDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwD8AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:00:46.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20261002120701_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Migrations\\20261002120701_Init.cs",
+              "RelativeDocumentMoniker": "CMS\\Migrations\\20261002120701_Init.cs",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\Migrations\\20261002120701_Init.cs",
+              "RelativeToolTip": "CMS\\Migrations\\20261002120701_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:07:01.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\appsettings.json",
+              "RelativeDocumentMoniker": "CMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dola\\source\\repos\\CMS\\CMS\\appsettings.json",
+              "RelativeToolTip": "CMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T12:05:24.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
